@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vikerminu.github.io/sitemap.html.gz
+Sitemap: https://vikerminu.github.io/app/sitemap.html.gz
+Sitemap: https://vikerminu.github.io/assets/sitemap.html.gz
+Sitemap: https://vikerminu.github.io/css/sitemap.html.gz
+Sitemap: https://vikerminu.github.io/includes/sitemap.html.gz
+Sitemap: https://vikerminu.github.io/item/sitemap.html.gz
+Sitemap: https://vikerminu.github.io/src/sitemap.html.gz
